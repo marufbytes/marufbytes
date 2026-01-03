@@ -1,7 +1,6 @@
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+![MasterHead](https://www.reddit.com/r/Cyberpunk/comments/17orhba/coding_by_pixel_jeff/)
 
-<h1 align="center">Hi 👋, I'm Maruf</h1>
-<h3 align="center">A Coding Enthusiast</h3>
+<h1 align="center">WELCOME TO WORLD OF CODING</h1>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
@@ -65,10 +64,10 @@
 </p>
 
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=marufbytes&show_icons=true&locale=en&layout=compact" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marufbytes" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marufbytes" /> -->
 </p>
