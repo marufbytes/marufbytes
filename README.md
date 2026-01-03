@@ -1,7 +1,8 @@
 ![MasterHead](https://i.pinimg.com/originals/f9/b8/8d/f9b88deeae101d6a8572063bb63c286e.gif)
 
-<h1 align="center">Hi, this is Maruf! </h1>
-<h3 align="center">A Coding Enthusiast</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=800&color=FF0066&center=true&vCenter=true&width=650&lines=This+is+Maruf+Ahammed!" alt="Typing SVG" />
+</h1><h3 align="center">A Coding Enthusiast</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
