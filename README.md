@@ -64,12 +64,11 @@ Reach me at: **maruahammed496@gmail.com**
   <!-- <a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/></a> -->
 </p>
 
-
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=marufbytes&show_icons=true&locale=en&layout=compact" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=marufbytes" />
-</p>
+</p> -->
 8
