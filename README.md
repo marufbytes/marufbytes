@@ -88,3 +88,18 @@ Reach me at: **maruahammed496@gmail.com**
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=marufbytes" />
 </p> -->
+
+
+<!-- First Row: Overall Stats + Top Languages 
+<div align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=marufbytes&theme=dracula&hide_border=false&count_private=true"
+    height="200px"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=marufbytes&theme=dracula&layout=compact&langs_count=8&hide=html,css&hide_border=false"
+    height="200px"
+  />
+</div> -->
+
+
