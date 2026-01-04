@@ -42,17 +42,25 @@ Reach me at: **maruahammed496@gmail.com**
   <a href="https://instagram.com/its_maruf_01" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/>
   </a>
+
+
+</p>
+
+<p>
+  <h3 align="left">Know me from:</h3>
+
   <a href="https://www.codechef.com/users/marufbytes" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" height="30" width="40"/>
   </a>
-  <a href="https://www.hackerrank.com/marufbytes" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40"/>
-  </a>
+  
   <a href="https://codeforces.com/profile/marufbytes" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" height="30" width="40"/>
   </a>
   <a href="https://www.leetcode.com/marufbytes" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40"/>
+  </a>
+    <a href="https://www.hackerrank.com/marufbytes" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40"/>
   </a>
 </p>
 
