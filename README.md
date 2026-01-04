@@ -1,11 +1,11 @@
 ![MasterHead](https://i.pinimg.com/originals/f9/b8/8d/f9b88deeae101d6a8572063bb63c286e.gif)
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=800&color=FF0066&center=true&vCenter=true&width=650&lines=Hi!+This+is+Maruf+Ahammed!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=500&color=FF0066&center=true&vCenter=true&width=650&lines=Hi!+I'm+Maruf+Ahammed!" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=FF0060&center=true&vCenter=true&width=500&lines=A+Coding+Enthusiast" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=FF0060&center=true&vCenter=true&width=500&lines=A+Coding+Enthusiast" />
 </p>
 
 
