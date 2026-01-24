@@ -9,7 +9,22 @@
 
 
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<table align="right">
+  <tr>
+    <td align="center">
+      <img
+        src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
+        width="300"
+        alt="Coding"
+      />
+      <br/>
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=marufbytes&layout=compact&bg_color=120312&title_color=ff79c6&text_color=47E1FF&hide_border=true"
+        width="300"
+      />
+    </td>
+  </tr>
+</table>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=marufbytes&label=Profile%20views&color=0e75b6&style=flat" alt="marufbytes" />
@@ -78,25 +93,7 @@ Reach me at: **maruahammed496@gmail.com**
   <!-- <a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/></a> -->
 </p>
 
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=marufbytes&show_icons=true&locale=en&layout=compact" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marufbytes" />
-</p> -->
 
 
-<!-- First Row: Overall Stats + Top Languages 
-<div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=marufbytes&theme=dracula&hide_border=false&count_private=true"
-    height="200px"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=marufbytes&theme=dracula&layout=compact&langs_count=8&hide=html,css&hide_border=false"
-    height="200px"
-  />
-</div> -->
 
 
