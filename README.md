@@ -3,28 +3,21 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=500&color=FF0066&center=true&vCenter=true&width=650&lines=Welcome+To+The+Heaven+Of+Code+!" alt="Typing SVG" />
 </h1>
+
+<!-- Replaced ERROR404 with marufbytes -->
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=500&color=FF0066&center=true&vCenter=true&width=650&lines=E+R+R+O+R++4+0+4+!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=500&color=FF0066&center=true&vCenter=true&width=650&lines=m+a+r+u+f+b+y+t+e+s" />
 </h3>
 
-
-
-<table align="right">
-  <tr>
-    <td align="center">
-      <img
-        src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
-        width="300"
-        alt="Coding"
-      />
-      <br/>
-      <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=marufbytes&layout=compact&bg_color=120312&title_color=ff79c6&text_color=47E1FF&hide_border=true"
-        width="300"
-      />
-    </td>
-  </tr>
-</table>
+<!-- Expanded GIF Right Side -->
+<img
+  align="right"
+  src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
+  width="500"
+  height="330"
+  alt="Coding"
+  style="margin-left:20px;"
+/>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=marufbytes&label=Profile%20views&color=0e75b6&style=flat" alt="marufbytes" />
@@ -37,8 +30,6 @@
 </p>
 
 Reach me at: **maruahammed496@gmail.com**
-
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -54,8 +45,6 @@ Reach me at: **maruahammed496@gmail.com**
   <a href="https://instagram.com/its_maruf_01" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/>
   </a>
-
-
 </p>
 
 <p>
@@ -68,14 +57,15 @@ Reach me at: **maruahammed496@gmail.com**
   <a href="https://codeforces.com/profile/marufbytes" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" height="30" width="40"/>
   </a>
+
   <a href="https://www.leetcode.com/marufbytes" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40"/>
   </a>
-    <a href="https://www.hackerrank.com/marufbytes" target="_blank">
+
+  <a href="https://www.hackerrank.com/marufbytes" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40"/>
   </a>
 </p>
-
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -88,12 +78,5 @@ Reach me at: **maruahammed496@gmail.com**
   <a href="https://www.java.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/></a>
   <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/></a>
-  <!-- <a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/></a> -->
   <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/></a>
-  <!-- <a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/></a> -->
 </p>
-
-
-
-
-
