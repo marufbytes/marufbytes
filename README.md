@@ -34,7 +34,7 @@
 <a href="https://twitter.com/maruf_864" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="40"/></a>
 <a href="https://linkedin.com/in/maruf864" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40"/></a>
 <a href="https://fb.com/maruf.864" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="40"/></a>
-<a href="https://instagram.com/its_maruf_01" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="40"/></a>
+<a href="https://instagram.com/_maruf__404_" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="40"/></a>
 </p>
 
 <h3 align="left">Know me from:</h3>
